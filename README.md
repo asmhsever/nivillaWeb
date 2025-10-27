@@ -178,15 +178,13 @@
 
 </details>
 
-
-<img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/database.webp" width="150">
-| ตารางข้อมูล (Database Tables) | การจัดการไฟล์ (Storage) |
-| :---------------------------: | :---------------------: |
+## 🎬  ตารางข้อมูล (datadiagram)
   <img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/data_diagram.png" width="1800">
 
 
 ## 🛠️ เทคโนโลยีที่ใช้ (Tech Stack)
-
+<img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/database.webp" width="200">
+<img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/flutter-banner.png" width="200">
 - **Frontend (Mobile App):** **Flutter**
 - **Programming Language:** **Dart**
 - **Backend as a Service (BaaS):** **Supabase**
