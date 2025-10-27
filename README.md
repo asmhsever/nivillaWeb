@@ -168,18 +168,18 @@
 | หน้าเข้าสู่ระบบ (Login) | หน้าผู้ดูแลระบบ (Admin) | หน้านิติ (lawer) | หน้าลูกบ้าน (house) |
 | :-----------------------: | :--------------------: | :--------------------: | :--------------------: |
 
- <img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/login.png" width="220">
+ <img src="https://github.com/asmhsever/nivillaWeb/blob/main/present/login.png" width="220">
 
-  <img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/admin.png"  width="220">
+  <img src="https://github.com/asmhsever/nivillaWeb/blob/main/present/admin.png"  width="220">
 
-   <img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/lawer.png" width="220">
+   <img src="https://github.com/asmhsever/nivillaWeb/blob/main/present/lawer.png" width="220">
 
-   <img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/house.png" width="220">
+   <img src="https://github.com/asmhsever/nivillaWeb/blob/main/present/house.png" width="220">
 
 </details>
 
 ## 🎬  ตารางข้อมูล (datadiagram)
-  <img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/data_diagram.png" width="1800">
+  <img src="https://github.com/asmhsever/nivillaWeb/blob/main/present/data_diagram.png" width="1800">
 
 
 ## 🛠️ เทคโนโลยีที่ใช้ (Tech Stack)
@@ -187,7 +187,7 @@
 <table>
   <tr>
     <td align="center" width="200">
-      <img src="https://github.com/asmhsever/nivillaWeb/raw/main/docs/flutter-banner.png" width="180">
+      <img src="https://github.com/asmhsever/nivillaWeb/raw/main/present/flutter-banner.png" width="180">
     </td>
     <td>
       <ul>
@@ -199,7 +199,7 @@
   
   <tr>
     <td align="center" width="200">
-      <img src="https://github.com/asmhsever/nivillaWeb/raw/main/docs/database.webp" width="180">
+      <img src="https://github.com/asmhsever/nivillaWeb/raw/main/present/database.webp" width="180">
     </td>
     <td>
       <ul>
