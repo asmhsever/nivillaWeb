@@ -183,16 +183,44 @@
 
 
 ## 🛠️ เทคโนโลยีที่ใช้ (Tech Stack)
-<img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/database.webp" width="200">
-<img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/flutter-banner.png" width="200">
-- **Frontend (Mobile App):** **Flutter**
-- **Programming Language:** **Dart**
-- **Backend as a Service (BaaS):** **Supabase**
-  - **Database:** PostgreSQL
-  - **Authentication:** Supabase Auth
-  - **Realtime:** Supabase Realtime Subscriptions
-  - **File Storage:** Supabase Storage
-  - **Serverless Functions:** Supabase Edge Functions (ถ้ามีการใช้งาน)
-- **State Management:** (ระบุ เช่น Provider, Bloc, Riverpod, GetX)
 
----
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://github.com/asmhsever/nivillaWeb/raw/main/docs/flutter-banner.png" width="180">
+    </td>
+    <td>
+      <ul>
+        <li><strong>Frontend (Mobile App):</strong> <strong>Flutter</strong></li>
+        <li><strong>State Management:</strong> (ระบุ เช่น Provider, Bloc, Riverpod, GetX)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b41818c641c2E.png" width="100">
+    </td>
+    <td>
+      <ul>
+        <li><strong>Programming Language:</strong> <strong>Dart</strong></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://github.com/asmhsever/nivillaWeb/raw/main/docs/database.webp" width="180">
+    </td>
+    <td>
+      <ul>
+        <li><strong>Backend as a Service (BaaS):</strong> <strong>Supabase</strong></li>
+        <ul>
+          <li><strong>Database:</strong> PostgreSQL</li>
+          <li><strong>Authentication:</strong> Supabase Auth</li>
+          <li><strong>Realtime:</strong> Supabase Realtime Subscriptions</li>
+          <li><strong>File Storage:</strong> Supabase Storage</li>
+          <li><strong>Serverless Functions:</strong> (ถ้ามีการใช้งาน)</li>
+        </ul>
+      </ul>
+    </td>
+  </tr>
+</table>
