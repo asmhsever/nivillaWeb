@@ -168,13 +168,13 @@
 | หน้าเข้าสู่ระบบ (Login) | หน้าหลัก (Dashboard) |
 | :---------------------: | :------------------: |
 
- <img src="https://github.com/asmhsever/nivillaWeb/blob/master/docs/login.png" alt="sunji" width="220">
+ <img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/login.png" width="220">
 
-  <img src="https://github.com/asmhsever/nivillaWeb/blob/master/docs/admin.png" alt="sunji" width="220">
+  <img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/admin.png"  width="220">
 
-   <img src="https://github.com/asmhsever/nivillaWeb/blob/master/docs/lawer.png" alt="sunji" width="220">
+   <img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/lawer.png" width="220">
 
-   <img src="https://github.com/asmhsever/nivillaWeb/blob/master/docs/house.png" alt="sunji" width="220">
+   <img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/house.png" width="220">
 
 </details>
 
@@ -182,10 +182,10 @@
   <summary><strong>คลิกเพื่อดูตัวอย่าง Supabase Dashboard (Backend)</strong></summary>
   
   <br>
-      <img src="https://github.com/asmhsever/nivillaWeb/blob/master/docs/database.webp" alt="sunji" width="220">
+      <img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/database.webp" width="220">
 | ตารางข้อมูล (Database Tables) | การจัดการไฟล์ (Storage) |
 | :---------------------------: | :---------------------: |
-  <img src="https://github.com/asmhsever/nivillaWeb/blob/master/docs/data_diagram.png" alt="sunji" width="220">
+  <img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/data_diagram.png" width="220">
 
 </details>
 
