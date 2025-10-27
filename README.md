@@ -165,8 +165,8 @@
   
   <br>
 
-| หน้าเข้าสู่ระบบ (Login) | หน้าหลัก (Dashboard) |
-| :---------------------: | :------------------: |
+| หน้าเข้าสู่ระบบ (Login) | หน้าผู้ดูแลระบบ (Admin) | หน้านิติ (lawer) | หน้าลูกบ้าน (house) |
+| :-----------------------: | :--------------------: | :--------------------: | :--------------------: |
 
  <img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/login.png" width="220">
 
@@ -178,16 +178,12 @@
 
 </details>
 
-<details>
-  <summary><strong>คลิกเพื่อดูตัวอย่าง Supabase Dashboard (Backend)</strong></summary>
-  
-  <br>
-      <img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/database.webp" width="220">
+
+<img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/database.webp" width="150">
 | ตารางข้อมูล (Database Tables) | การจัดการไฟล์ (Storage) |
 | :---------------------------: | :---------------------: |
-  <img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/data_diagram.png" width="220">
+  <img src="https://github.com/asmhsever/nivillaWeb/blob/main/docs/data_diagram.png" width="1800">
 
-</details>
 
 ## 🛠️ เทคโนโลยีที่ใช้ (Tech Stack)
 
