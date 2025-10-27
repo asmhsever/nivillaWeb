@@ -196,16 +196,7 @@
       </ul>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b41818c641c2E.png" width="100">
-    </td>
-    <td>
-      <ul>
-        <li><strong>Programming Language:</strong> <strong>Dart</strong></li>
-      </ul>
-    </td>
-  </tr>
+  
   <tr>
     <td align="center" width="200">
       <img src="https://github.com/asmhsever/nivillaWeb/raw/main/docs/database.webp" width="180">
